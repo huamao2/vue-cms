@@ -1,6 +1,6 @@
 // 入口文件
 import Vue from 'vue'
-
+  
 // 导入miui
 import './lib/minui/css/mui.min.css'
 
